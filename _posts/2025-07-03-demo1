@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "demo1"
+date:   2025-07-03 12:34:56 +0100
+tags: facts, animals, trivia
+authors:
+  - Tom Couch
+img:
+  url: /assets/images/hippo.jpg
+---
+
+does this even work?
